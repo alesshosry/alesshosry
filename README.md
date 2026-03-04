@@ -10,13 +10,9 @@
  
 
 ## GitHub stats
-<!-- Popular stat cards (public info; may not include private repo details) -->
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=alesshosry&row=1&column=3&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://<your-project>.vercel.app/api?username=alesshosry&show_icons=true&rank_icon=github&include_all_commits=true&cache_seconds=1800)
 
-## Stats
-
-![Metrics](https://metrics.lecoq.io/alesshosry?template=classic&base.indepth=false&config.timezone=America%2FSao_Paulo)
-
+![Top Languages](https://<your-project>.vercel.app/api/top-langs/?username=alesshosry&layout=compact&langs_count=8&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=alesshosry)
  

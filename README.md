@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋 
+### I'm Aless, research engineer specialised in software analysis.
 
-<!--
-**alesshosry/alesshosry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech I use
+**Languages:** TypeScript, Java, C#, Pharo
 
-Here are some ideas to get you started:
+**Frameworks/Tools:** Angular, Moose, Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** Metaprograming, Fullstack dev, AI, Teaching
+ 
+
+## GitHub stats
+<!-- Popular stat cards (public info; may not include private repo details) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alesshosry&show_icons=true&rank_icon=github&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alesshosry&layout=compact&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alesshosry)
+ 
+You can find more info about me [here](https://alesshosry.github.io/)

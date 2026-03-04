@@ -1,20 +1,33 @@
-# Hi 👋 
-### I'm Aless, research engineer specialised in software analysis.
+# Project Title
 
-## Tech I use
-**Languages:** TypeScript, Java, C#, Pharo
+Project description goes here.
 
-**Frameworks/Tools:** Angular, Moose, Android
+## Badges
 
-**Interests:** Metaprograming, Fullstack dev, AI, Teaching
- 
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=alesshosry&row=1&column=3&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub stats
-<!-- Popular stat cards (public info; may not include private repo details) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alesshosry&show_icons=true&rank_icon=github&include_all_commits=true)
+## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alesshosry&layout=compact&langs_count=8)
+![Metrics](https://metrics.lecoq.io/alesshosry?template=classic&base.indepth=false&config.timezone=America%2FSao_Paulo)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alesshosry)
- 
-You can find more info about me [here](https://alesshosry.github.io/)
+## Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+
+Instructions for installation go here.
+
+## Usage
+
+Usage instructions go here.
+
+## Contributing
+
+Guidelines for contributing go here.
+
+## License
+
+Information about license goes here.
